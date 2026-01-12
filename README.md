@@ -1,7 +1,7 @@
 # Insight Mail – The Language of Enterprise Conversations 🚀
 ### CodeBharat Armageddon Hackathon Project
 
-![Dashboard Preview](<img width="1330" height="755" alt="Image" src="https://github.com/user-attachments/assets/539cec86-7716-4fe3-9792-229cb034f387" />)
+![Dashboard Preview]([<img width="1330" height="755" alt="Image" src="https://github.com/user-attachments/assets/539cec86-7716-4fe3-9792-229cb034f387" />](https://github.com/NakulSingh156/codebharatarmageddon/issues/1#issue-3805566130))
 *(Note: Upload your dashboard screenshot to the repo or replace this link)*
 
 ## Project Overview
