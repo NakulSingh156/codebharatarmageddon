@@ -1,8 +1,8 @@
 # Insight Mail – The Language of Enterprise Conversations 🚀
 ### CodeBharat Armageddon Hackathon Project
 
-![Dashboard Preview]([<img width="1330" height="755" alt="Image" src="https://github.com/user-attachments/assets/539cec86-7716-4fe3-9792-229cb034f387" />](https://github.com/NakulSingh156/codebharatarmageddon/issues/1#issue-3805566130))
-*(Note: Upload your dashboard screenshot to the repo or replace this link)*
+Dashboard Preview[<img width="1330" height="755" alt="Image" src="https://github.com/user-attachments/assets/539cec86-7716-4fe3-9792-229cb034f387" />](https://github.com/NakulSingh156/codebharatarmageddon/issues/1#issue-3805566130)
+
 
 ## Project Overview
 **Insight Mail** is a smart email analytics tool designed to streamline enterprise communication. It automatically processes incoming support emails to provide quick summaries, detect tone and urgency, extract key details, and suggest AI-generated responses.
@@ -55,6 +55,7 @@ npm run dev
 The application will launch at http://localhost:5173
 
 👥 Contributors
+
 Nakul Singh
 
 Satwik Maharana
