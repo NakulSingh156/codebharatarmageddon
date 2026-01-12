@@ -29,7 +29,7 @@ Dashboard Preview[<img width="1330" height="755" alt="Image" src="https://github
 
 ### Important: Missing Files
 To keep this repository lightweight, the **Machine Learning Models** and **API Keys** are not included.
-1. **Download Models:** [[INSERT YOUR GOOGLE DRIVE LINK HERE](https://drive.google.com/drive/folders/1jGTwio7Sh--XGW63LjVSjORPYjAbm8Jb?usp=share_link)]
+1. **Download Models:** [(https://drive.google.com/drive/folders/1jGTwio7Sh--XGW63LjVSjORPYjAbm8Jb?usp=share_link)]
 2. **Place Files:** Unzip the models and place them inside the `Backend/models/` folder.
 
 ### 1. Backend Setup
