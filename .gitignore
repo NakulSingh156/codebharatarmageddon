@@ -1,0 +1,17 @@
+venv/
+Backend/venv/
+node_modules/
+Frontend/node_modules/
+**/__pycache__/
+*.zip
+*.pt
+*.bin
+*.h5
+*.pkl
+Backend/models/
+Backend/models 2/
+Backend/models 3/
+Backend/models 4/
+Backend/client_secret*.json
+Backend/gmail_token.json
+.DS_Store
